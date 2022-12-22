@@ -1,0 +1,35 @@
+{
+  "display": {
+    "title": "Evisort Store - Concert/Panel ",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "NFTNFTNFTArcs",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "-75,-64",
+      "-75,-65"
+    ],
+    "base": "-75,-64"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "ad0a6a93-f320-4ef5-be93-2714d2f859e7",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 2,
+      "cols": 1
+    }
+  }
+}
